@@ -1,1 +1,3 @@
-https://youtu.be/F-Feqm5EZbo
+https://youtu.be/F-Feqm5EZbo (LINK VARIABEL DAN TIPE DATA)
+https://youtu.be/BizbtShKMzg (LINK ARITMATIKA DAN CONTOH KASUS)
+https://youtu.be/JnV2RpOL5zU (LINK PENUGASAN, PERBANDINGAN DAN LOGIKA)
